@@ -1,8 +1,8 @@
 package com.tdiba.yaarenas;
 
-public class equality{
+class Equality{
 	
-	public static void myConstructor(){
+	public static void main(String[] args) {
 		
 		int control;
 		control = 100;
